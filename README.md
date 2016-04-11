@@ -1,7 +1,6 @@
-# Delivery
+# Misanthropic Meals
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+Our Meals can be delivered to you -- without ever having to interact with another person!
 
 ## Prerequisites
 
@@ -51,3 +50,4 @@ Specify what it takes to deploy your app.
   * [ember inspector for chrome](https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi)
   * [ember inspector for firefox](https://addons.mozilla.org/en-US/firefox/addon/ember-inspector/)
 
+Created by Mollie Bootsma and Anna Lawley
